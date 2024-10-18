@@ -1,0 +1,60 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Ratatouille - Receita e História</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+
+    <header>
+        <h1>Ratatouille</h1>
+        <p>Uma deliciosa receita da culinária francesa</p>
+    </header>
+
+    <section class="about">
+        <h2>O que é Ratatouille?</h2>
+        <p>Ratatouille é um prato tradicional da Provence, feito com legumes frescos e temperos. É conhecido por sua apresentação colorida e sabor delicado.</p>
+    </section>
+
+    <section class="recipe">
+        <h2>Receita de Ratatouille</h2>
+        <h3>Ingredientes</h3>
+        <ul>
+            <li>1 berinjela média, cortada em cubos</li>
+            <li>1 abobrinha média, cortada em cubos</li>
+            <li>1 pimentão vermelho, cortado em cubos</li>
+            <li>1 pimentão amarelo, cortado em cubos</li>
+            <li>1 cebola média, picada</li>
+            <li>2 dentes de alho, picados</li>
+            <li>4 tomates maduros, picados</li>
+            <li>4 colheres de sopa de azeite de oliva</li>
+            <li>Ervas de Provence, sal e pimenta a gosto</li>
+        </ul>
+        
+        <h3>Modo de Preparo</h3>
+        <ol>
+            <li>Aqueça o azeite e refogue a cebola e o alho até ficarem macios.</li>
+            <li>Adicione a berinjela e refogue por 5 minutos.</li>
+            <li>Acrescente a abobrinha e os pimentões, refogando por mais 5-7 minutos.</li>
+            <li>Adicione os tomates e as ervas, temperando com sal e pimenta.</li>
+            <li>Cozinhe em fogo baixo por 20-30 minutos, mexendo ocasionalmente.</li>
+        </ol>
+    </section>
+
+    <section class="image-gallery">
+        <h2>Imagens do Prato</h2>
+        <img src="https://source.unsplash.com/300x200/?ratatouille" alt="Ratatouille">
+        <img src="https://source.unsplash.com/300x200/?vegetables" alt="Legumes frescos">
+    </section>
+
+    <footer>
+        <div class="footer-content">
+            <p>&copy; 2024 Ratatouille Lovers. Todos os direitos reservados.</p>
+            <p>Contato: <a href="mailto:contato@ratatouilovers.com">contato@ratatouilovers.com</a></p>
+        </div>
+    </footer>
+
+</body>
+</html>
